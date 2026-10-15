@@ -1,0 +1,25 @@
+Student ID,Student Name,Cohort,Advisor,Coursework,Comp_Exam,Capstone,Last_Updated,Time_In_Stage_Days,Risk
+MEM-2401,Mateo Alonzo,2024-Fall,Dr. Aris Ramos,Completed,In-Progress,In-Progress,2026-08-28,203,AT RISK
+MEM-2402,Beatrice Cruz,2024-Fall,Dr. Celso Torres,Completed,Passed,Defended for Completion,2026-08-24,145,Normal
+MEM-2403,Gabriel Gomez,2024-Fall,Dr. Brenda Lee,Cancelled,Incomplete,In-Progress,2026-08-13,240,AT RISK
+MEM-2404,Sofia Reyes,2024-Fall,Dr. Celso Torres,Completed,In-Progress,In-Progress,2026-08-21,110,Normal
+MEM-2405,Lucas Tan,2025-Spring,Dr. Raul Moreno,Completed,In-Progress,In-Progress,2026-08-30,221,AT RISK
+MEM-2406,Chloe Santos,2024-Fall,Dr. Celso Torres,Completed,In-Progress,In-Progress,2026-08-25,95,Normal
+MEM-2407,Dominic Lim,2025-Fall,Dr. Brenda Lee,Completed,Passed,In-Progress,2026-08-28,236,AT RISK
+MEM-2408,Isabella Dy,2025-Spring,Dr. Aris Ramos,Completed,In-Progress,In-Progress,2026-08-23,88,Normal
+MEM-2409,Nathan Uy,2025-Fall,Dr. Brenda Lee,Cancelled,In-Progress,In-Progress,2026-08-19,150,Normal
+MEM-2410,Zoe Villanueva,2024-Fall,Dr. Aris Ramos,Completed,In-Progress,Defended for Completion,2026-08-21,221,AT RISK
+MEM-2411,Ethan Sy,2024-Fall,Dr. Brenda Lee,Cancelled,In-Progress,In-Progress,2026-08-16,182,AT RISK
+MEM-2412,Hannah Yap,2024-Fall,Dr. Aris Ramos,Completed,In-Progress,In-Progress,2026-08-13,206,AT RISK
+MEM-2413,Liam Mendoza,2025-Spring,Dr. Aris Ramos,Completed,In-Progress,In-Progress,2026-08-30,115,Normal
+MEM-2414,Mia Alcantara,2025-Fall,Dr. Brenda Lee,Pending,Passed,In-Progress,2026-08-12,130,Normal
+MEM-2415,Noah Pascual,2025-Spring,Dr. Raul Moreno,Completed,In-Progress,In-Progress,2026-08-22,102,Normal
+MEM-2416,Ella Torres,2025-Spring,Dr. Raul Moreno,Completed,In-Progress,Defended for Completion,2026-08-22,198,Normal
+MEM-2417,Caleb Ramos,2024-Fall,Dr. Brenda Lee,Completed,In-Progress,Defended for Completion,2026-08-21,112,Normal
+MEM-2418,Aria Bautista,2024-Fall,Dr. Aris Ramos,Completed,In-Progress,Defended for Completion,2026-08-13,90,Normal
+MEM-2419,Julian Castro,2025-Fall,Dr. Celso Torres,Completed,In-Progress,In-Progress,2026-08-26,120,Normal
+MEM-2420,Samantha Tan,2025-Fall,Dr. Raul Moreno,Completed,Passed,In-Progress,2026-08-27,105,Normal
+MEM-2421,Leo Navarro,2024-Fall,Dr. Celso Torres,Completed,Passed,Defended for Completion,2026-08-15,85,Normal
+MEM-2422,Victoria Cruz,2025-Spring,Dr. Brenda Lee,Pending,In-Progress,In-Progress,2026-08-18,140,Normal
+MEM-2423,Ryan Dizon,2024-Fall,Dr. Raul Moreno,Completed,In-Progress,In-Progress,2026-08-20,175,Normal
+MEM-2424,Jasmine Lee,2025-Spring,Dr. Celso Torres,Completed,Passed,Defended for Completion,2026-08-29,92,Normal
